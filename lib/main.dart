@@ -3,7 +3,7 @@ import 'navigationBar.dart';
 import 'package:flutter_webapplication/LandingPage/LandingPage.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp()); //Myapp
 }
 
 class MyApp extends StatelessWidget {

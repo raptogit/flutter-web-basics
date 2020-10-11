@@ -1,16 +1,15 @@
 # flutter_webapplication
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## A few resources to grow in life:
 
-A few resources to get you started if this is your first Flutter project:
+- [Get complete video tutorial here ]()
+- [Get courses absolutely free click here](https://t.me/raptolearning)
+- [Get comlete python series](https://www.youtube.com/playlist?list=PL2-VmUmSx8UBMMfF3BAQWKxbFn3vF0n1b)
+- [Get comlete chatbot series](https://www.youtube.com/watch?v=vZLH0k3jWUI&list=PL2-VmUmSx8UANqRf44hdMdNDtDCQL7eVp)
+- [Get comlete chatbot series](https://www.youtube.com/watch?v=vZLH0k3jWUI&list=PL2-VmUmSx8UANqRf44hdMdNDtDCQL7eVp)
+- [Follow on instagram for educational content](https://instagram.com/raptolearning?igshid=1wyoklt7hwfrg)
+- [Rapto Website](https://rapto.in/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

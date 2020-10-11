@@ -4,7 +4,7 @@
 
 ## A few resources to grow in life:
 
-- [Get complete video tutorial here ]()
+- [Get complete video tutorial here ](https://youtu.be/EY0rnQqtS8Y)
 
 - [Get courses absolutely free click here](https://t.me/raptolearning)
 

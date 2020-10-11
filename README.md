@@ -1,6 +1,6 @@
 # flutter_webapplication
 
-[Flutter Web app](https://raw.githubusercontent.com/raptogit/flutter-web-basics/master/Desktop%20view.jpg)
+[](Desktop%20view.jpg)
 
 ## A few resources to grow in life:
 

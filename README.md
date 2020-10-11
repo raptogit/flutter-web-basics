@@ -1,6 +1,6 @@
 # flutter_webapplication
 
-![Image of rapto](https://github.com/raptogit/flutter-web-basics/blob/master/Desktop%20view.jpg)
+![Image of rapto](https://raw.githubusercontent.com/raptogit/flutter-web-basics/master/Desktop%20view%20(1).jpg)
 
 ## A few resources to grow in life:
 
